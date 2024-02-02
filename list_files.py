@@ -14,6 +14,7 @@
 #     for file in files:
 #         print(file)
 
+# This is a python script which can be used to list the files inside a folder
 import os
 
 
